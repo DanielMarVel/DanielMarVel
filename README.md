@@ -1,5 +1,5 @@
 
-- 👋 Hej, Jag är @DanielMarVel. I am @DanielMarVel
+- 👋 Hej, Jag heter @DanielMarVel. I am @DanielMarVel
 - 👀 I’m interested in Telecommunications Technologies 
 - 💡 I’m currently applying to [Ericsson](https://www.ericsson.com/en)
 - ⛷ Ask me about 4G, 5G and new wireless technologies 
